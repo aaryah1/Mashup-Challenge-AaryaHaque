@@ -1,0 +1,40 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+/*lines 4-28 I added the code to update font color, size, and style*/
+h1{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 50px;
+}
+h2{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 40px;
+}
+h3{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+}
+h4{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+}
+p{
+  font-family: cursive;
+  font-size: 20px;
+  color: white;
+}
+img{
+  width: 150px;
+  height: 150px;
+}
+/*lines 35-40 was added to include a background image and I added additional code to make it fit the page*/
+body{
+  background-image: url("https://media.giphy.com/media/xT9IgC2RzpbE7vBZ6M/giphy.gif?cid=790b7611izty8jypdlwb1kt6ct6cc9um25g9r2ct0ad2audm&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
